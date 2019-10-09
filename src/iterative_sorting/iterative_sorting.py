@@ -40,8 +40,8 @@ def bubble_sort( arr ):
 
 test_array = [8, 7, 2, 5, 1, 9, 4, 3, 6]
 print(test_array)
-#test_array = selection_sort(test_array)
-test_array = bubble_sort(test_array)
+test_array = selection_sort(test_array)
+#test_array = bubble_sort(test_array)
 print(test_array)
 
 
